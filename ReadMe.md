@@ -1,5 +1,23 @@
+🎓 3rd Year Computer Engineering Student | 🔐 Aspiring Cybersecurity Professional
+
+I'm a Computer Engineering student passionate about technology, cybersecurity, and digital security. Currently beginning my journey into the world of Cybersecurity, exploring Linux, Python, and Computer Networking.
+
+I believe in learning by doing, building practical skills, and continuously exploring new technologies.
+
 # 💫 About Me:
-college student 3rd year computer engineering my interest in cyber security<br>
+🎓 Pursuing Computer Engineering (Third Year).
+
+🔐 Interested in Cybersecurity and Information Security.
+
+🐧 Learning Linux and its command-line environment.
+
+🐍 Exploring Python programming.
+
+🌐 Building knowledge of Computer Networking.
+
+💡 Always curious to learn new technologies.
+
+🎯 Goal: Become a skilled Cybersecurity Professional.<br>
 
 
 ## 🌐 Socials:
